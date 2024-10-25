@@ -3,7 +3,7 @@ let totalMoney = 100000000000;
 
 // Items data
 const items = [
-    { name: 'Big Mac', cost: 2, imgSrc: './img/items-pics/big-mac.jpg' },
+    { name: 'Big Mac', cost: 2, imgSrc: '../img/items-pics/big-mac.jpg' },
     { name: 'Flip Flops', cost: 3, imgSrc: './img/items-pics/flip-flops.jpg' },
     { name: 'Coca-Cola Pack', cost: 5, imgSrc: './img/items-pics/coca-cola-pack.jpg' },
     { name: 'Movie Ticket', cost: 12, imgSrc: './img/items-pics/movie-ticket.jpg' },
