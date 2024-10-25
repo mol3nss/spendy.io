@@ -1,6 +1,6 @@
 // Items data
 const items = [
-    { name: 'Spend bill gate\'s money', linkItem: './assets/games/SpendBillGatesMoney/index.html', imgSrc: './assets/img/items-pics/spend.svg' },
+    { name: 'Spend bill gate\'s money', linkItem: './assets/pages/games/SpendBillGatesMoney/index.html', imgSrc: './assets/img/items-pics/spend.svg' },
 ];
 
 // Dynamically create item cards
